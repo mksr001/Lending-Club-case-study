@@ -20,14 +20,23 @@ Details of loan asn borrowers were provided in the form of .csv file. Analysis n
 
 ## Conclusions
 -higher the loan term(60 months) chances of defaulters increases.
+
 -Most of the customers are taken loan for debt consolidation
+
 -Maximum nos. of defaulters are in California(CA)
+
 -For grades B,C & D  there are considerable Nos. of defaulters
+
 -Customers having larger working experience can easily pay the loan, Their charge off/ fully paid ratio is least.
+
 -It can be concluded that the increase loan term lead to higher interest rate.
+
 -Interest rate increases with loan amount
+
 -It can be concluded people having more income will take higher principal amount and can lead to defaulter
+
 -It can be concluded that people doing small business tends to take higher loans that can lead to bad loans
+
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
